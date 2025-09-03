@@ -1,5 +1,5 @@
 site_name: DCI 201 - Digital Collections & Exhibits
-base_url: https://mackenziekbrooks.github.io/dci201-f25
+base_url: https://mackenziekbrooks.github.io/dci201-f25/
 
 theme: 
   name: material
@@ -45,3 +45,4 @@ nav:
   - Assignments:
     - Assignments: assignments.md
     - Specs Grading: grading.md
+  - Resources: resources.md

@@ -1,5 +1,5 @@
 
-## Exhibit Comparison 
+## Exhibit Compare & Contrast
 
 Before we move into the digital world, let's get a sense for how exhibits function IRL. For this assignment, you'll be asked to compare and contrast two physical exhibits in the local area. We will visit some campus exhibit spaces together, but you are also being asked to venture out into the world on your own and visit one of the following spaces:
 
@@ -7,7 +7,8 @@ Before we move into the digital world, let's get a sense for how exhibits functi
 * [Jackson House Museum](https://www.vmi.edu/museums-and-archives/jackson-house-museum/) - 8 E. Washington St. Open 9-5pm daily. There is an admission cost but the website claims Lexington/Rockbridge residents can visit for free. 
 * [VMI Museum](https://www.vmi.edu/museums-and-archives/vmi-museum/) - Memorial Hall, 415 Letcher Ave. Open 9-5 daily. Same note about admission cost as above. 
 * [Brownsburg Museum](https://www.thebrownsburgmuseum.org/) - 2716 Brownsburg Turnpike Raphine, VA, 24472 (way out in the county so you'd need a car, lovely drive though!). ONLY OPEN Sept 6-7, 1-4pm. Free. 
-* [Millers House Museum](https://www.millershousemuseum.com/) - 834 Moses Mill Road, Lexington (the stone house at Jordan's Point at the end of Woods Creek Trail). Open Saturday and Sunday 1-4pm. Free. 
+* [Miller's House Museum](https://www.millershousemuseum.com/) - 834 Moses Mill Road, Lexington (the stone house at Jordan's Point at the end of Woods Creek Trail). Open Saturday and Sunday 1-4pm. Free. 
+* [University Chapel & Galleries](https://www.wlu.edu/academics/libraries-and-museums/institutional-history-museum-and-galleries/visit) - Wednesday-Saturday, 10-5pm. Be sure to check out the basement exhibits. 
 
 **Assignment specs:**
 

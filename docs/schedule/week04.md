@@ -31,6 +31,6 @@
 ## Thursday, October 2, 2025
 
 * Privacy in collections 
-* Visit from Emily ? 
+* Visit from Emily Cook, Research Librarian for the Humanities, at 3:30pm. 
 
 

@@ -9,4 +9,4 @@
 
 ## Thursday, October 23, 2025
 
-* Visit from Emily Cook? 
+* Visit from Emily Cook for a research deep dive

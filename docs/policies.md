@@ -13,11 +13,15 @@ All writing should be your own or should be cited properly. The writing assignme
 
 ## Use of Artificial Intelligence 
 
-Generative AI tools—software that creates new text, images, computer code, audio, video, and other content—are widely available. Well-known examples include ChatGPT, Claude, and Gemini for text and DALL•E and Midjourney for images. This policy governs all such tools, including those released during our term together.
-You may use generative AI tools on assignments in this course when I explicitly permit you to do so. Otherwise, you should refrain from using such tools.
+Generative AI should be avoided when completing assignments for this course. Included in this policy are well-known tools like ChatGPT, Claude, and Gemini, as well as AI features in services like Grammarly (spell check is okay, but the rewriting/outlining features are not). I want the writing and ideas that you submit to be original to your brain. I am interested in what *you* come up with, not a generic version of what you or the AI think I want.
 
-* If you do use generative AI tools on assignments in this class, you must properly document and credit the tools themselves. Please cite the tool according to the guidelines for citing computer software, as outlined by your chosen style guide (MLA, APA, Chicago, etc). Additionally, please include a brief description of how you used the tool.
-* If you choose to use generative AI tools, please remember that they are typically trained on limited datasets that may be out-of-date. Additionally, generative AI datasets are trained on pre-existing material, including copyrighted material; therefore, relying on a generative AI tool may result in plagiarism or copyright violations.
-* Finally, keep in mind that the goal of generative AI tools is to produce content that seems to have been produced by a human, not to produce accurate or reliable content; therefore, relying on a generative AI tool may result in your submission of inaccurate content.
-* It is your responsibility — not the tool’s — to assure the quality, integrity, and accuracy of work you submit in any college course. Misuse or unauthorized usage of generative AI tools may constitute an Honor Violation, which can be further expounded in the White Book. Please communicate with me if there is any confusion regarding its usage for assignments, assessments, or any other coursework.
+That being said, I am interested in learning from you how gen AI can assist in some of the tasks ahead of us in this course. If you think that gen AI could be useful to our work, you are encouraged to propose an approach that the entire class could use well ahead of turning in an assignment. 
+
+We will be working with sensitive and copyrighted materials in this course so it is important that those material are kept out of generative AI systems unless explicitly allowed to avoid privacy or copyright concerns. We also want to work within professional ethics and norms. 
+
+While it is generally believed that AI use cannot be detected, there are cases where students leave evidence of AI use. I'm not interested in hunting down AI use, but repeated instances of unauthorized gen AI use may constitute an honor violation. 
+
+You should also know that I will not be using AI to grade your work, nor have I used it in preparation of course materials. 
+
+If you have questions or you're unsure, just reach out! I'm not interested in policing behavior, but providing an educational experience where you learn the most you can. 
 

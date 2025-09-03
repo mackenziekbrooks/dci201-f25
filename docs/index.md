@@ -4,9 +4,9 @@ title: DCI 201 Digital Collections & Exhibits
 
 # Syllabus
 
-Fall 2025 // TR 2:40-4:10pm // 
+Fall 2025 // TR 2:40-4:10pm // Classroom: probably Leyburn 218
 
-The [course website](http://mackenziekbrooks.github.com/dci201-f25) is a living document. It will change regularly to reflect the needs of the course.
+The [course website](http://mackenziekbrooks.github.io/dci201-f25) is a living document. It will change regularly to reflect the needs of the course.
 
 
 ## Contact
