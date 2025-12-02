@@ -8,6 +8,8 @@
 * [Digital Archive](https://digitalarchive.wlu.edu/)
 * [General Lee's College](https://wlu.primo.exlibrisgroup.com/permalink/01WLU_INST/r69n1a/alma991004255429704161) catalog record
 * [Washington and Lee University, 1930-2000](https://wlu.primo.exlibrisgroup.com/permalink/01WLU_INST/r69n1a/alma991009325379704161)
+* [A Historical Sketch of the Library of Washington and Lee University](https://digitalarchive.wlu.edu/islandora/historical-sketch-library-washington-and-lee-university-beginning-1776-through-1937) - 1776-1937
+* [A Brief History of the Washington and Lee University Library](https://ils.unc.edu/MSpapers/3564.pdf) - 1938-2003
 
 
 ## Digital Exhibits

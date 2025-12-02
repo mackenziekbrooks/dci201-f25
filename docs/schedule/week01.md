@@ -12,13 +12,13 @@
 
 ## Tuesday, September 9, 2025
 
-* Visit with Special Collections & Archives staff 
+* Visit with Special Collections & Archives staff in the Special Collections classroom on Lower Level 1. 
 
 
 **Prep for Thursday:**
 
 * Watch this [video](https://www.youtube.com/watch?v=8mMKvYmZpgQ&t=149s) and do some reading on the artist Edward Burtynsky. 
-* Check out the [W&L Museums](https://www.wlu.edu/academics/libraries-and-museums/art-museum-and-galleries]) website. 
+* Check out the [W&L Museums](https://www.wlu.edu/academics/libraries-and-museums/art-museum-and-galleries) website. 
 * Browse the [website](https://myartda.com/) of artist Minjeong An and the [Staniar Gallery website](https://www.wlu.edu/staniar-gallery?utm_source=my).
 
 

@@ -6,7 +6,11 @@
 * Wireframe due 
 * Research + group work time 
 
+**read for Thursday:**
+
+* Take a look at [HTML + CSS is hard](https://internetingishard.netlify.app/html-and-css/)
+* Download [Sublime Text](https://www.sublimetext.com/)
 
 ## Thursday, October 30, 2025
 
-* Work time 
+* Learn to code! HTML + CSS tutorial for customizing your exhibit. 

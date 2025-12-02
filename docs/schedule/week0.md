@@ -5,7 +5,15 @@
 ## Thursday, September 4, 2025
 
 * Introductions + Syllabus Day
-* Curation activity 
+* Curation activity questions:
+	* Select ~5 things from your backpack and answer: What is this? Where did you get it? What does it mean?  
+	* As a group, select from your pool of items and curate a tiny exhibit on _____
+		- What is the title? 
+		- What is the story? 
+		- How do these objects fit together? 
+		- How would you exhibit them? Draw it out or assemble it. 
+		- Who is your audience? 
+		- How would you preserve these items so someone could see the exhibit in 20 years? 
 * Blind timeline activity 
 
 
